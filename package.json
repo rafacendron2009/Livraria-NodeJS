@@ -1,0 +1,24 @@
+{
+  "name": "livraria-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafacendron2009/Livraria-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafacendron2009/Livraria-NodeJS/issues"
+  },
+  "homepage": "https://github.com/rafacendron2009/Livraria-NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
